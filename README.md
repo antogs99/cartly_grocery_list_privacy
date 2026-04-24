@@ -1,4 +1,4 @@
-# cartly_grocery_list_privacy
+# Privacy Policy
 
 App Name: Cartly: Grocery List
 Effective Date: 04/23/2026
