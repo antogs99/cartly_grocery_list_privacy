@@ -7,11 +7,16 @@ Grocery List: AisleFlow (“the App”) respects your privacy. This policy expla
 
 1. Data Collection
 
-The App does not collect, store, or share personal data.
+The App collects limited, non-personal usage data to improve performance and user experience.
 
-* No account required
-* No personal information collected (name, email, location, etc.)
-* No tracking or analytics tools used
+This may include:
+
+* App interactions (e.g., screens viewed, features used)
+* Device information (e.g., device model, OS version)
+* General location data (country/region, not precise location)
+* App performance data (crashes, diagnostics)
+
+This data does not directly identify you.
 
 2. User Data
 
@@ -19,7 +24,12 @@ All data created in the App (e.g., grocery lists, items) is stored locally on yo
 
 3. Third-Party Services
 
-The App does not use third-party services that collect user data.
+The App uses the following third-party services:
+
+* Firebase (Analytics, Crash Reporting)
+* Google Analytics (GA4)
+
+These services may collect and process data as described in this policy.
 
 4. Data Security
 
@@ -39,6 +49,31 @@ If you have questions about this Privacy Policy, contact:
 
 Email: antogs99@gmail.com
 
+8. Analytics
+
+The App uses Firebase and Google Analytics (GA4), services provided by Google LLC, to understand how users interact with the App.
+
+These services may collect:
+
+* Device identifiers (such as advertising ID)
+* Usage data (screens viewed, session duration, interactions)
+* Approximate location (based on IP address)
+
+This information is used to:
+
+* Improve app functionality and performance
+* Understand feature usage
+* Fix bugs and crashes
+
+Google may process this data in accordance with their Privacy Policy:
+https://policies.google.com/privacy
+
+9. Your Choices
+
+You can limit analytics data collection by:
+
+* Disabling ad tracking in your device settings (iOS: Settings → Privacy & Security → Tracking)
+* Limiting app permissions where applicable
 ⸻
 Need Help?
 
