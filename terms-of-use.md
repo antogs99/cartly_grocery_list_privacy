@@ -1,10 +1,4 @@
-Read CLAUDE.md and project_knowledge.md fully before making any changes.
 
-We are implementing Cartly Plus — a rebranded paid tier that bundles list 
-sharing, recipe import, and aisle lookup (beta). Work through these in order 
-and run the build after all changes.
-
----
 
 **1. SubscriptionService.swift**
 
