@@ -1,93 +1,139 @@
 # Privacy Policy
 
-App Name: Cartly: Grocery List
-Effective Date: 04/23/2026
+App Name: Cartly: Grocery List  
+Effective Date: May 2026
 
-Grocery List: AisleFlow (“the App”) respects your privacy. This policy explains what data is collected and how it is used.
+Cartly (“we”, “us”, or “our”) respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices when using the app.
 
-1. Data Collection
+---
 
-The App collects limited, non-personal usage data to improve performance and user experience.
+## 1. Information We Collect
 
-This may include:
+### a. Account Information  
+If you sign in using Apple or Google, we may receive:
+- Email address  
+- Display name  
 
-* App interactions (e.g., screens viewed, features used)
-* Device information (e.g., device model, OS version)
-* General location data (country/region, not precise location)
-* App performance data (crashes, diagnostics)
+This information is used only to create and manage your account.
 
-This data does not directly identify you.
+---
 
-2. User Data
+### b. User Data (Lists and Items)  
+If you are signed in, your grocery lists, items, and related data are stored securely using cloud services (Google Firebase). This allows:
+- Syncing across devices  
+- Sharing lists with other users  
 
-All data created in the App (e.g., grocery lists, items) is stored locally on your device and is not transmitted to any external servers.
+If you use the app without signing in, your data may be stored locally on your device.
 
-3. Third-Party Services
+---
 
-The App uses the following third-party services:
+### c. Usage Data  
+We collect limited usage data to improve the app, including:
+- Screens viewed  
+- Features used  
+- Session activity  
 
-* Firebase (Analytics, Crash Reporting)
-* Google Analytics (GA4)
+---
 
-These services may collect and process data as described in this policy.
+### d. Device Information  
+We may collect:
+- Device model  
+- Operating system version  
+- App version  
 
-4. Data Security
+---
 
-Since no personal data is collected or stored externally, there is no risk of your personal data being accessed from external systems.
+### e. Approximate Location  
+We may collect general location data (such as country or region) based on IP address.  
+We do not collect precise GPS location unless explicitly requested for features like store selection.
 
-5. Children’s Privacy
+---
 
-The App does not knowingly collect any data from children under 13.
+## 2. How We Use Your Information
 
-6. Changes to This Policy
+We use collected data to:
+- Provide and maintain app functionality  
+- Sync your data across devices  
+- Enable list sharing  
+- Improve performance and features  
+- Fix bugs and crashes  
 
-This policy may be updated in the future. Any changes will be reflected on this page with an updated effective date.
+---
 
-7. Contact
+## 3. Third-Party Services
 
-If you have questions about this Privacy Policy, contact:
+We use the following third-party services:
 
-Email: antogs99@gmail.com
+- Google Firebase (Authentication, Firestore Database, Analytics, Crash Reporting)  
+- Google Analytics (GA4)  
 
-8. Analytics
-
-The App uses Firebase and Google Analytics (GA4), services provided by Google LLC, to understand how users interact with the App.
-
-These services may collect:
-
-* Device identifiers (such as advertising ID)
-* Usage data (screens viewed, session duration, interactions)
-* Approximate location (based on IP address)
-
-This information is used to:
-
-* Improve app functionality and performance
-* Understand feature usage
-* Fix bugs and crashes
-
-Google may process this data in accordance with their Privacy Policy:
+These services may collect and process data according to their own privacy policies:  
 https://policies.google.com/privacy
 
-9. Your Choices
+---
 
-You can limit analytics data collection by:
+## 4. Payments and Subscriptions
 
-* Disabling ad tracking in your device settings (iOS: Settings → Privacy & Security → Tracking)
-* Limiting app permissions where applicable
-⸻
-Need Help?
+In-app purchases and subscriptions are processed by Apple through the App Store.  
+We do not collect, store, or have access to your payment information.
 
-If you’re experiencing issues, have questions, or want to suggest features, contact:
+We may store your subscription status to determine access to premium features.
 
-Email: antogs99@gmail.com
+---
 
-When contacting support, include:
+## 5. Data Storage and Security
 
-* Device type (iPhone model)
-* iOS version
-* Description of the issue
-* Steps to reproduce (if applicable)
+Your data is stored securely using industry-standard practices.  
+Cloud-stored data is protected through Firebase security systems.
 
-Response Time
+While we take reasonable measures to protect your data, no system is completely secure.
 
-Responses are typically provided within 24–48 hours.
+---
+
+## 6. Data Retention
+
+We retain your data as long as your account exists.  
+If you delete your account, your associated data will be permanently removed.
+
+---
+
+## 7. Children’s Privacy
+
+Cartly is not intended for children under 13.  
+We do not knowingly collect personal data from children under 13.
+
+---
+
+## 8. Your Choices
+
+You can limit data collection by:
+- Using the app without signing in (local-only mode)  
+- Disabling app tracking in iOS settings  
+- Managing permissions in your device settings  
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time.  
+Changes will be reflected with an updated effective date.
+
+---
+
+## 10. Contact
+
+If you have questions or concerns, contact:
+
+Email: antogs99@gmail.com  
+
+---
+
+## Support
+
+If you need help, include:
+- Device type (iPhone model)  
+- iOS version  
+- Description of the issue  
+- Steps to reproduce  
+
+Response time: typically 24–48 hours.
